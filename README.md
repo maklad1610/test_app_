@@ -1,1 +1,1 @@
-1-First Test repo on the complete ruby on rails developer by "fares maklad"
+1-First Test repo on the complete ruby on rails developer by "Fares Maklad"
